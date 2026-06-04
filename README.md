@@ -1,5 +1,3 @@
-# Preview website:
-### https://herobanenair.github.io/claudelike.css/
 
 # How to use in html
 
